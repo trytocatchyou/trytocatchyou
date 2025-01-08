@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ...
 <!--
-**MProfessor/MProfessor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**trytocatchyou/trytocatchyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Stats PR Issue](https://github-readme-stats.vercel.app/api?username=trytocatchyou&amp;show_icons=true)](https://github.com/trytocatchyou)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MProfessor&langs_count=9&layout=compact)](https://github.com/MProfessor) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trytocatchyou&langs_count=3&layout=compact)](https://github.com/trytocatchyou)
