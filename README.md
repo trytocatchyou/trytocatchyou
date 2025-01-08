@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Stats PR Issue](https://github-readme-stats.vercel.app/api?username=trytocatchyou&amp;show_icons=true)](https://github.com/trytocatchyou)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trytocatchyou&langs_count=9&layout=compact)](https://github.com/trytocatchyou)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trytocatchyou&langs_count=9)](https://github.com/trytocatchyou)
